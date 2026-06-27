@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/discord/000000000000000000?color=5865F2&label=Discord&logo=discord&logoColor=white" />
   </a>
 
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-3fb950" />
+  <img src="https://img.shields.io/badge/Open-Source-3fb950" />
   <img src="https://img.shields.io/badge/Built%20With-TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/License-Apache%202.0-orange" />
 </p>
